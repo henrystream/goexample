@@ -24,4 +24,4 @@ jobs:
  
 
     - name: Go Example
-      uses: henrystream/goexample@v1
+      uses: AdminTurnedDevOps/goexample@v1
