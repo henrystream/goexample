@@ -22,4 +22,4 @@ jobs:
         go-version: '1.23'
 
     - name: Go Example
-      uses: AdminTurnedDevOps/goexample@v1
+      uses: henrystream/goexample@v1
